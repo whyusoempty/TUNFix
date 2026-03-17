@@ -1,5 +1,0 @@
-﻿КОМАНДА: netsh.exe winsock audit trail
-КОД ВЫХОДА: 0
-
-
-
