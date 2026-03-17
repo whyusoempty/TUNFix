@@ -1,0 +1,5 @@
+﻿COMMAND: netsh.exe winsock audit trail
+EXIT CODE: 0
+
+
+

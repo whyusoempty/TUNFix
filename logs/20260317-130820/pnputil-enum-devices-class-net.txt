@@ -1,0 +1,158 @@
+﻿КОМАНДА: pnputil.exe /enum-devices /class Net
+КОД ВЫХОДА: 0
+
+Microsoft PnP Utility
+
+Instance ID:                USB\VID_05AC&PID_12A8&MI_02\7&2bbd6c3e&2&0002
+Device Description:         Apple Mobile Device Ethernet
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple
+Status:                     Disconnected
+Driver Name:                oem3.inf
+
+Instance ID:                SWD\Wintun\{05B44401-F55A-1BE5-94C3-7FA54BB2D33E}
+Device Description:         WireGuard Tunnel
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          WireGuard LLC
+Status:                     Started
+Driver Name:                oem44.inf
+
+Instance ID:                SWD\MSRRAS\MS_PPPOEMINIPORT
+Device Description:         WAN Miniport (PPPOE)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netrasa.inf
+
+Instance ID:                ROOT\NET\0000
+Device Description:         VirtualBox Host-Only Ethernet Adapter
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Oracle Corporation
+Status:                     Started
+Driver Name:                oem61.inf
+
+Instance ID:                ROOT\NET\0001
+Device Description:         TAP-Windows Adapter V9
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          TAP-Windows Provider V9
+Status:                     Started
+Driver Name:                oem17.inf
+
+Instance ID:                SWD\MSRRAS\MS_PPTPMINIPORT
+Device Description:         WAN Miniport (PPTP)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netrasa.inf
+
+Instance ID:                SWD\MSRRAS\MS_AGILEVPNMINIPORT
+Device Description:         WAN Miniport (IKEv2)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netavpna.inf
+
+Instance ID:                USB\VID_05AC&PID_12A8&MI_03\7&2bbd6c3e&2&0003
+Device Description:          
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Disconnected
+Driver Name:                usbncm.inf
+
+Instance ID:                ROOT\KDNIC\0000
+Device Description:         Microsoft Kernel Debug Network Adapter
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                kdnic.inf
+
+Instance ID:                ROOT\WIREGUARD\0000
+Device Description:         WireGuard Tunnel #2
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          WireGuard LLC
+Status:                     Started
+Driver Name:                oem11.inf
+
+Instance ID:                PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_15\8A486AE0FF10000000
+Device Description:         Realtek PCIe GbE Family Controller #2
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Realtek
+Status:                     Started
+Driver Name:                oem101.inf
+
+Instance ID:                SWD\MSRRAS\MS_NDISWANBH
+Device Description:         WAN Miniport (Network Monitor)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netrasa.inf
+
+Instance ID:                SWD\MSRRAS\MS_NDISWANIP
+Device Description:         WAN Miniport (IP)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netrasa.inf
+
+Instance ID:                SWD\MSRRAS\MS_SSTPMINIPORT
+Device Description:         WAN Miniport (SSTP)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netsstpa.inf
+
+Instance ID:                ROOT\WINTUN\0000
+Device Description:         Wintun Userspace Tunnel
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          WireGuard LLC
+Status:                     Started
+Driver Name:                oem44.inf
+
+Instance ID:                ROOT\WINTUN\0001
+Device Description:         Wintun Userspace Tunnel #2
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          WireGuard LLC
+Status:                     Started
+Driver Name:                oem44.inf
+
+Instance ID:                ROOT\WINTUN\0002
+Device Description:         Wintun Userspace Tunnel #3
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          WireGuard LLC
+Status:                     Started
+Driver Name:                oem44.inf
+
+Instance ID:                SWD\MSRRAS\MS_NDISWANIPV6
+Device Description:         WAN Miniport (IPv6)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netrasa.inf
+
+Instance ID:                SWD\MSRRAS\MS_L2TPMINIPORT
+Device Description:         WAN Miniport (L2TP)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                netrasa.inf
+
+

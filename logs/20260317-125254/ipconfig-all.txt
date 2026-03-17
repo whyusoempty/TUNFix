@@ -1,0 +1,110 @@
+﻿COMMAND: ipconfig.exe /all
+EXIT CODE: 0
+
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-04OCUOF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : .
+
+Unknown adapter AmneziaVPN:
+
+   Connection-specific DNS Suffix  . : .
+   Description . . . . . . . . . . . : WireGuard Tunnel
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fd58:baa6:dead::1(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.8.1.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.255
+   Default Gateway . . . . . . . . . : ::
+                                       0.0.0.0
+   DNS Servers . . . . . . . . . . . : 1.1.1.1
+                                       1.0.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+   Connection-specific DNS Suffix Search List :
+                                       .
+
+Unknown adapter ������祭�� �� �����쭮� �� 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Wintun Userspace Tunnel
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter ������祭�� �� �����쭮� �� 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Wintun Userspace Tunnel #2
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter ������祭�� �� �����쭮� �� 5:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : WireGuard Tunnel #2
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Unknown adapter ������祭�� �� �����쭮� �� 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Wintun Userspace Tunnel #3
+   Physical Address. . . . . . . . . : 
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 5:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller #2
+   Physical Address. . . . . . . . . : 10-FF-E0-6A-48-8A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8ac8:468b:473e:8d4%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.4(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 17 ���� 2026 �. 11:45:40
+   Lease Expires . . . . . . . . . . : 18 ���� 2026 �. 11:45:39
+   Default Gateway . . . . . . . . . : 192.168.3.1
+   DHCP Server . . . . . . . . . . . : 192.168.3.1
+   DHCPv6 IAID . . . . . . . . . . . : 252772320
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-B0-EF-BA-10-FF-E0-6A-48-8A
+   DNS Servers . . . . . . . . . . . : 192.168.3.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet 6:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-04
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d59e:1fac:afab:c519%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 688521255
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2E-B0-EF-BA-10-FF-E0-6A-48-8A
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter outline-tap0:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-EB-A7-F4-97
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+

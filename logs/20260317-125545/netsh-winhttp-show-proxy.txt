@@ -1,0 +1,9 @@
+﻿COMMAND: netsh.exe winhttp show proxy
+EXIT CODE: 0
+
+
+Current WinHTTP proxy settings:
+
+    Direct access (no proxy server).
+
+

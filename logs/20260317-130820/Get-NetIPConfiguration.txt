@@ -1,0 +1,60 @@
+﻿
+
+InterfaceAlias       : Ethernet 5
+InterfaceIndex       : 17
+InterfaceDescription : Realtek PCIe GbE Family Controller #2
+NetProfile.Name      : Сеть 5
+IPv4Address          : 192.168.3.4
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 192.168.3.1
+DNSServer            : 192.168.3.1
+
+InterfaceAlias       : Ethernet 6
+InterfaceIndex       : 4
+InterfaceDescription : VirtualBox Host-Only Ethernet Adapter
+IPv4Address          : 192.168.56.1
+IPv6DefaultGateway   : 
+IPv4DefaultGateway   : 
+DNSServer            : fec0:0:0:ffff::1
+                       fec0:0:0:ffff::2
+                       fec0:0:0:ffff::3
+
+InterfaceAlias       : AmneziaVPN
+InterfaceIndex       : 63
+InterfaceDescription : WireGuard Tunnel
+NetProfile.Name      : AmneziaVPN
+IPv6Address          : fd58:baa6:dead::1
+IPv4Address          : 10.8.1.1
+IPv6DefaultGateway   : ::
+IPv4DefaultGateway   : 0.0.0.0
+DNSServer            : 1.1.1.1
+                       1.0.0.1
+
+InterfaceAlias       : Подключение по локальной сети 2
+InterfaceIndex       : 15
+InterfaceDescription : Wintun Userspace Tunnel #3
+NetAdapter.Status    : Disconnected
+
+InterfaceAlias       : Подключение по локальной сети 5
+InterfaceIndex       : 13
+InterfaceDescription : WireGuard Tunnel #2
+NetAdapter.Status    : Disconnected
+
+InterfaceAlias       : Подключение по локальной сети 3
+InterfaceIndex       : 11
+InterfaceDescription : Wintun Userspace Tunnel
+NetAdapter.Status    : Disconnected
+
+InterfaceAlias       : outline-tap0
+InterfaceIndex       : 23
+InterfaceDescription : TAP-Windows Adapter V9
+NetAdapter.Status    : Disconnected
+
+InterfaceAlias       : Подключение по локальной сети 4
+InterfaceIndex       : 21
+InterfaceDescription : Wintun Userspace Tunnel #2
+NetAdapter.Status    : Disconnected
+
+
+
+

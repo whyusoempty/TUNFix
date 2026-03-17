@@ -1,0 +1,9 @@
+﻿КОМАНДА: netsh.exe winhttp show proxy
+КОД ВЫХОДА: 0
+
+
+Current WinHTTP proxy settings:
+
+    Direct access (no proxy server).
+
+

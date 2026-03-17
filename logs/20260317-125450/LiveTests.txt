@@ -1,0 +1,18 @@
+﻿
+Name                                           Status Details                                                          
+----                                           ------ -------                                                          
+Loopback ping                                  Pass   Basic local TCP/IP stack response.                               
+Default gateway reachability                   Warn   Gateway 192.168.3.1 did not reply to ping. Some routers block ...
+DNS resolution                                 Fail   The property 'IPAddress' cannot be found on this object. Verif...
+Outbound TCP 443                               Pass   Raw TCP connectivity to 1.1.1.1:443 works.                       
+HTTP probe                                     Pass   HTTP probe reached Microsoft connectivity endpoint.              
+RasMan start test                              Pass   Remote Access Connection Manager is already running.             
+Tunnel adapter Подключение по локальной сети 3 Warn   Status=Disconnected; IPv4=169.254.233.74                         
+Tunnel adapter Подключение по локальной сети 5 Warn   Status=Disconnected; IPv4=169.254.236.221                        
+Tunnel adapter Подключение по локальной сети 2 Warn   Status=Disconnected; IPv4=169.254.179.106                        
+Tunnel adapter Подключение по локальной сети 4 Warn   Status=Disconnected; IPv4=169.254.75.176                         
+Tunnel adapter outline-tap0                    Warn   Status=Disconnected; IPv4=169.254.104.235                        
+Tunnel adapter AmneziaVPN                      Pass   Status=Up; IPv4=10.8.1.1                                         
+
+
+

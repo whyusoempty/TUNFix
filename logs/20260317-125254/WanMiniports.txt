@@ -1,0 +1,14 @@
+﻿
+Name                           Status PNPDeviceID                    Manufacturer
+----                           ------ -----------                    ------------
+WAN Miniport (IKEv2)           OK     SWD\MSRRAS\MS_AGILEVPNMINIPORT Microsoft   
+WAN Miniport (IP)              OK     SWD\MSRRAS\MS_NDISWANIP        Microsoft   
+WAN Miniport (IPv6)            OK     SWD\MSRRAS\MS_NDISWANIPV6      Microsoft   
+WAN Miniport (L2TP)            OK     SWD\MSRRAS\MS_L2TPMINIPORT     Microsoft   
+WAN Miniport (Network Monitor) OK     SWD\MSRRAS\MS_NDISWANBH        Microsoft   
+WAN Miniport (PPPOE)           OK     SWD\MSRRAS\MS_PPPOEMINIPORT    Microsoft   
+WAN Miniport (PPTP)            OK     SWD\MSRRAS\MS_PPTPMINIPORT     Microsoft   
+WAN Miniport (SSTP)            OK     SWD\MSRRAS\MS_SSTPMINIPORT     Microsoft   
+
+
+

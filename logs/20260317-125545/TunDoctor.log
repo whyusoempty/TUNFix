@@ -1,0 +1,47 @@
+[2026-03-17 12:55:45] [INFO] Starting TunDoctor in mode: Diagnose
+[2026-03-17 12:55:45] [STEP] Collecting full diagnostic snapshot.
+[2026-03-17 12:55:59] [INFO] Running: netsh.exe winhttp show proxy
+[2026-03-17 12:56:01] [STEP] Collecting raw networking diagnostics.
+[2026-03-17 12:56:01] [INFO] Running: ipconfig.exe /all
+[2026-03-17 12:56:01] [INFO] Running: route.exe print
+[2026-03-17 12:56:01] [INFO] Running: netsh.exe winsock show catalog
+[2026-03-17 12:56:01] [INFO] Running: netsh.exe winsock audit trail
+[2026-03-17 12:56:01] [INFO] Running: netsh.exe interface ipv4 show interfaces
+[2026-03-17 12:56:01] [INFO] Running: netsh.exe interface ipv6 show interfaces
+[2026-03-17 12:56:01] [INFO] Running: netsh.exe advfirewall show allprofiles
+[2026-03-17 12:56:01] [INFO] Running: netcfg.exe /s n
+[2026-03-17 12:56:01] [INFO] Running: pnputil.exe /enum-devices /class Net
+[2026-03-17 12:56:06] [STEP] Running live connectivity and VPN readiness tests.
+[2026-03-17 12:56:11] [WARN] Stopped service NlaSvc: This service should be running for healthy networking and VPN operation.
+[2026-03-17 12:56:11] [WARN] Tunnel adapter not up: Подключение по локальной сети 3: Status is Disconnected.
+[2026-03-17 12:56:11] [WARN] Tunnel adapter not up: Подключение по локальной сети 5: Status is Disconnected.
+[2026-03-17 12:56:11] [WARN] Tunnel adapter not up: Подключение по локальной сети 2: Status is Disconnected.
+[2026-03-17 12:56:11] [WARN] Tunnel adapter not up: Подключение по локальной сети 4: Status is Disconnected.
+[2026-03-17 12:56:11] [WARN] Tunnel adapter not up: outline-tap0: Status is Disconnected.
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Ethernet 6: Enabled filter: oracle_VBoxNetLwf (VirtualBox NDIS6 Bridged Networking Driver)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Ethernet 6: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Ethernet 6: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 2: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 2: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 5: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 5: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 3: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 3: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 5: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 5: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 2: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 2: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Ethernet 5: Enabled filter: oracle_VBoxNetLwf (VirtualBox NDIS6 Bridged Networking Driver)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Ethernet 5: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Ethernet 5: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 4: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 4: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 4: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети 4: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on outline-tap0: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on outline-tap0: Enabled filter: oracle_VBoxNetLwf (VirtualBox NDIS6 Bridged Networking Driver)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on outline-tap0: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 3: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on Подключение по локальной сети* 3: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on AmneziaVPN: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+[2026-03-17 12:56:11] [INFO] Third-party filter binding on AmneziaVPN: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))

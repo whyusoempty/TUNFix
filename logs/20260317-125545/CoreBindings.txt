@@ -1,0 +1,82 @@
+﻿
+Adapter                               InterfaceDescription                  Status       HardwareInterface ComponentId
+-------                               --------------------                  ------       ----------------- -----------
+6to4 Adapter                                                                Not Present              False ms_msclient
+6to4 Adapter                                                                Not Present              False ms_server  
+6to4 Adapter                                                                Not Present              False ms_tcpip   
+6to4 Adapter                                                                Not Present              False ms_tcpip6  
+Подключение по локальной сети* 6      WAN Miniport (IP)                     Up                       False ms_msclient
+Подключение по локальной сети* 6      WAN Miniport (IP)                     Up                       False ms_server  
+Подключение по локальной сети* 6      WAN Miniport (IP)                     Up                       False ms_tcpip   
+Подключение по локальной сети* 6      WAN Miniport (IP)                     Up                       False ms_tcpip6  
+Ethernet 6                            VirtualBox Host-Only Ethernet Adapter Up                       False ms_msclient
+Ethernet 6                            VirtualBox Host-Only Ethernet Adapter Up                       False ms_server  
+Ethernet 6                            VirtualBox Host-Only Ethernet Adapter Up                       False ms_tcpip   
+Ethernet 6                            VirtualBox Host-Only Ethernet Adapter Up                       False ms_tcpip6  
+Подключение по локальной сети* 2      WAN Miniport (IKEv2)                  Disconnected             False ms_msclient
+Подключение по локальной сети* 2      WAN Miniport (IKEv2)                  Disconnected             False ms_server  
+Подключение по локальной сети* 2      WAN Miniport (IKEv2)                  Disconnected             False ms_tcpip   
+Подключение по локальной сети* 2      WAN Miniport (IKEv2)                  Disconnected             False ms_tcpip6  
+Microsoft IP-HTTPS Platform Interface                                       Not Present              False ms_msclient
+Microsoft IP-HTTPS Platform Interface                                       Not Present              False ms_server  
+Microsoft IP-HTTPS Platform Interface                                       Not Present              False ms_tcpip   
+Microsoft IP-HTTPS Platform Interface                                       Not Present              False ms_tcpip6  
+Подключение по локальной сети* 5      WAN Miniport (PPPOE)                  Disconnected             False ms_msclient
+Подключение по локальной сети* 5      WAN Miniport (PPPOE)                  Disconnected             False ms_server  
+Подключение по локальной сети* 5      WAN Miniport (PPPOE)                  Disconnected             False ms_tcpip   
+Подключение по локальной сети* 5      WAN Miniport (PPPOE)                  Disconnected             False ms_tcpip6  
+Подключение по локальной сети* 7      WAN Miniport (IPv6)                   Up                       False ms_msclient
+Подключение по локальной сети* 7      WAN Miniport (IPv6)                   Up                       False ms_server  
+Подключение по локальной сети* 7      WAN Miniport (IPv6)                   Up                       False ms_tcpip   
+Подключение по локальной сети* 7      WAN Miniport (IPv6)                   Up                       False ms_tcpip6  
+Подключение по локальной сети 3       Wintun Userspace Tunnel               Disconnected             False ms_msclient
+Подключение по локальной сети 3       Wintun Userspace Tunnel               Disconnected             False ms_server  
+Подключение по локальной сети 3       Wintun Userspace Tunnel               Disconnected             False ms_tcpip   
+Подключение по локальной сети 3       Wintun Userspace Tunnel               Disconnected             False ms_tcpip6  
+Подключение по локальной сети 5       WireGuard Tunnel #2                   Disconnected             False ms_msclient
+Подключение по локальной сети 5       WireGuard Tunnel #2                   Disconnected             False ms_server  
+Подключение по локальной сети 5       WireGuard Tunnel #2                   Disconnected             False ms_tcpip   
+Подключение по локальной сети 5       WireGuard Tunnel #2                   Disconnected             False ms_tcpip6  
+Подключение по локальной сети 2       Wintun Userspace Tunnel #3            Disconnected             False ms_msclient
+Подключение по локальной сети 2       Wintun Userspace Tunnel #3            Disconnected             False ms_server  
+Подключение по локальной сети 2       Wintun Userspace Tunnel #3            Disconnected             False ms_tcpip   
+Подключение по локальной сети 2       Wintun Userspace Tunnel #3            Disconnected             False ms_tcpip6  
+Teredo Tunneling Pseudo-Interface                                           Not Present              False ms_msclient
+Teredo Tunneling Pseudo-Interface                                           Not Present              False ms_server  
+Teredo Tunneling Pseudo-Interface                                           Not Present              False ms_tcpip   
+Teredo Tunneling Pseudo-Interface                                           Not Present              False ms_tcpip6  
+Ethernet 5                            Realtek PCIe GbE Family Controller #2 Up                        True ms_msclient
+Ethernet 5                            Realtek PCIe GbE Family Controller #2 Up                        True ms_server  
+Ethernet 5                            Realtek PCIe GbE Family Controller #2 Up                        True ms_tcpip   
+Ethernet 5                            Realtek PCIe GbE Family Controller #2 Up                        True ms_tcpip6  
+Подключение по локальной сети* 8      WAN Miniport (Network Monitor)        Up                       False ms_msclient
+Подключение по локальной сети* 8      WAN Miniport (Network Monitor)        Up                       False ms_server  
+Подключение по локальной сети* 8      WAN Miniport (Network Monitor)        Up                       False ms_tcpip   
+Подключение по локальной сети* 8      WAN Miniport (Network Monitor)        Up                       False ms_tcpip6  
+Подключение по локальной сети* 4      WAN Miniport (PPTP)                   Disconnected             False ms_msclient
+Подключение по локальной сети* 4      WAN Miniport (PPTP)                   Disconnected             False ms_server  
+Подключение по локальной сети* 4      WAN Miniport (PPTP)                   Disconnected             False ms_tcpip   
+Подключение по локальной сети* 4      WAN Miniport (PPTP)                   Disconnected             False ms_tcpip6  
+Подключение по локальной сети 4       Wintun Userspace Tunnel #2            Disconnected             False ms_msclient
+Подключение по локальной сети 4       Wintun Userspace Tunnel #2            Disconnected             False ms_server  
+Подключение по локальной сети 4       Wintun Userspace Tunnel #2            Disconnected             False ms_tcpip   
+Подключение по локальной сети 4       Wintun Userspace Tunnel #2            Disconnected             False ms_tcpip6  
+Подключение по локальной сети* 1      WAN Miniport (SSTP)                   Disconnected             False ms_msclient
+Подключение по локальной сети* 1      WAN Miniport (SSTP)                   Disconnected             False ms_server  
+Подключение по локальной сети* 1      WAN Miniport (SSTP)                   Disconnected             False ms_tcpip   
+Подключение по локальной сети* 1      WAN Miniport (SSTP)                   Disconnected             False ms_tcpip6  
+outline-tap0                          TAP-Windows Adapter V9                Disconnected             False ms_msclient
+outline-tap0                          TAP-Windows Adapter V9                Disconnected             False ms_server  
+outline-tap0                          TAP-Windows Adapter V9                Disconnected             False ms_tcpip   
+outline-tap0                          TAP-Windows Adapter V9                Disconnected             False ms_tcpip6  
+Подключение по локальной сети* 3      WAN Miniport (L2TP)                   Disconnected             False ms_msclient
+Подключение по локальной сети* 3      WAN Miniport (L2TP)                   Disconnected             False ms_server  
+Подключение по локальной сети* 3      WAN Miniport (L2TP)                   Disconnected             False ms_tcpip   
+Подключение по локальной сети* 3      WAN Miniport (L2TP)                   Disconnected             False ms_tcpip6  
+AmneziaVPN                            WireGuard Tunnel                      Up                       False ms_msclient
+AmneziaVPN                            WireGuard Tunnel                      Up                       False ms_server  
+AmneziaVPN                            WireGuard Tunnel                      Up                       False ms_tcpip   
+AmneziaVPN                            WireGuard Tunnel                      Up                       False ms_tcpip6  
+
+
+

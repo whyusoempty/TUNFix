@@ -1,0 +1,138 @@
+﻿
+TimeCreated         ProviderName            Level     Id Message                                                       
+-----------         ------------            -----     -- -------                                                       
+17.03.2026 12:27:06 Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+17.03.2026 11:47:40 Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+17.03.2026 11:47:40 Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+17.03.2026 11:45:38 Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+17.03.2026 11:45:35 Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+17.03.2026 11:45:35 Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+16.03.2026 14:47:03 Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+16.03.2026 14:25:11 Tcpip                   Warning 4231 A request to allocate an ephemeral port number from the global
+                                                          TCP port space has failed due to all such ports being in use.
+16.03.2026 13:18:55 Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+16.03.2026 13:18:55 Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+16.03.2026 13:16:53 Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+16.03.2026 13:16:49 Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+16.03.2026 13:16:49 Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+15.03.2026 9:44:07  Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+15.03.2026 9:40:33  Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+15.03.2026 9:40:33  Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+15.03.2026 9:38:31  Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+15.03.2026 9:38:28  Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+15.03.2026 9:38:28  Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+14.03.2026 15:40:09 Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+14.03.2026 10:57:24 Service Control Manager Error   7000 The Steam Client Service service failed to start due to the fo
+                                                         llowing error:                                                
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+14.03.2026 10:57:24 Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Steam Client Service service to connect.                   
+14.03.2026 10:45:17 Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+14.03.2026 10:45:17 Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+14.03.2026 10:42:59 Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+14.03.2026 10:42:56 Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+14.03.2026 10:42:56 Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+13.03.2026 12:30:48 Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+13.03.2026 12:03:08 Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+13.03.2026 12:03:08 Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+13.03.2026 12:01:06 Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+13.03.2026 12:01:03 Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+13.03.2026 12:01:03 Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+12.03.2026 18:54:30 Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+12.03.2026 12:55:53 Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+12.03.2026 12:55:53 Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+12.03.2026 12:53:51 Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+12.03.2026 12:53:48 Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+12.03.2026 12:53:48 Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+11.03.2026 16:44:58 Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+11.03.2026 16:42:43 Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+11.03.2026 16:42:43 Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+11.03.2026 16:40:41 Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+11.03.2026 16:40:38 Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+11.03.2026 16:40:38 Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+11.03.2026 15:39:05 Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+11.03.2026 15:38:58 Service Control Manager Error   7034 The FlClashHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+11.03.2026 9:43:40  Tcpip                   Warning 4266 A request to allocate an ephemeral port number from the global
+                                                          UDP port space has failed due to all such ports being in use.
+11.03.2026 9:28:18  Service Control Manager Error   7000 The Служба Google Update (gupdate) service failed to start due
+                                                          to the following error:                                      
+                                                         The service did not respond to the start or control request in
+                                                          a timely fashion.                                            
+11.03.2026 9:28:18  Service Control Manager Error   7009 A timeout was reached (90000 milliseconds) while waiting for t
+                                                         he Служба Google Update (gupdate) service to connect.         
+11.03.2026 9:26:16  Service Control Manager Error   7034 The SnowVPNHelperService service terminated unexpectedly.  It 
+                                                         has done this 1 time(s).                                      
+11.03.2026 9:26:13  Service Control Manager Error   7000 The AMDRyzenMasterDriverV27 service failed to start due to the
+                                                          following error:                                             
+                                                         The system cannot find the file specified.                    
+11.03.2026 9:26:12  Service Control Manager Error   7000 The luafv service failed to start due to the following error: 
+                                                         This driver has been blocked from loading                     
+
+
+

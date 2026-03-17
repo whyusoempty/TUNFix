@@ -1,0 +1,274 @@
+﻿
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 3 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 3 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 3 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 3 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 3 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 3 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 3 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 3 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 3 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 3 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 3 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 3 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 3 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 3 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 3 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 3 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name         DisplayName                                                         ComponentID       Enabled
+----         -----------                                                         -----------       -------
+outline-tap0 Npcap Packet Driver (NPCAP)                                         INSECURE_NPCAP       True
+outline-tap0 Протокол мультиплексора сетевого адаптера (Майкрософт)              ms_implat           False
+outline-tap0 Вложенная виртуализация сети                                        ms_l1vhlwf           True
+outline-tap0 Драйвер моста                                                       ms_l2bridge          True
+outline-tap0 Драйвер протокола LLDP (Майкрософт)                                 ms_lldp              True
+outline-tap0 Ответчик обнаружения топологии канального уровня                    ms_lltdio            True
+outline-tap0 Клиент для сетей Microsoft                                          ms_msclient          True
+outline-tap0 Захват Microsoft NDIS                                               ms_ndiscap           True
+outline-tap0 NDIS-протокол ввода-вывода пользовательского режима                 ms_ndisuio           True
+outline-tap0 NetBIOS Interface                                                   ms_netbios           True
+outline-tap0 WINS Client(TCP/IP) Protocol                                        ms_netbt             True
+outline-tap0 Планировщик пакетов QoS                                             ms_pacer             True
+outline-tap0 Протокол PPPoE                                                      ms_pppoe             True
+outline-tap0 Microsoft RDMA — NDK                                                ms_rdma_ndk          True
+outline-tap0 Отвечающее устройство обнаружения топологии канального уровня       ms_rspndr            True
+outline-tap0 Общий доступ к файлам и принтерам для сетей Microsoft               ms_server            True
+outline-tap0 IP версии 4 (TCP/IPv4)                                              ms_tcpip             True
+outline-tap0 IP версии 6 (TCP/IPv6)                                              ms_tcpip6            True
+outline-tap0 Упрощенный фильтр основного MAC-уровня платформы фильтрации Windows ms_wfplwf_lower      True
+outline-tap0 Упрощенный фильтр MAC-уровня 802.3 платформы фильтрации Windows     ms_wfplwf_upper      True
+outline-tap0 ExitLag LightWeight Filter                                          nt_ndextlag          True
+outline-tap0 VirtualBox NDIS6 Bridged Networking Driver                          oracle_VBoxNetLwf    True
+outline-tap0 Расширяемый виртуальный коммутатор Hyper-V                          vms_pp              False
+
+
+
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 4 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 4 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 4 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 4 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 4 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 4 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 4 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 4 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 4 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 4 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 4 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 4 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 4 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 4 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 4 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 4 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 4 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 4 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 4 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 4 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 4 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 4 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 4 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 4 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 4 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 4 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 4 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 4 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 4 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 4 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 4 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 4 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name       DisplayName                                                         ComponentID       Enabled
+----       -----------                                                         -----------       -------
+Ethernet 5 Npcap Packet Driver (NPCAP)                                         INSECURE_NPCAP       True
+Ethernet 5 Протокол мультиплексора сетевого адаптера (Майкрософт)              ms_implat           False
+Ethernet 5 Вложенная виртуализация сети                                        ms_l1vhlwf           True
+Ethernet 5 Драйвер моста                                                       ms_l2bridge          True
+Ethernet 5 Драйвер протокола LLDP (Майкрософт)                                 ms_lldp              True
+Ethernet 5 Ответчик обнаружения топологии канального уровня                    ms_lltdio            True
+Ethernet 5 Клиент для сетей Microsoft                                          ms_msclient          True
+Ethernet 5 Захват Microsoft NDIS                                               ms_ndiscap           True
+Ethernet 5 NDIS-протокол ввода-вывода пользовательского режима                 ms_ndisuio           True
+Ethernet 5 NetBIOS Interface                                                   ms_netbios           True
+Ethernet 5 WINS Client(TCP/IP) Protocol                                        ms_netbt             True
+Ethernet 5 Планировщик пакетов QoS                                             ms_pacer             True
+Ethernet 5 Протокол PPPoE                                                      ms_pppoe             True
+Ethernet 5 Microsoft RDMA — NDK                                                ms_rdma_ndk          True
+Ethernet 5 Отвечающее устройство обнаружения топологии канального уровня       ms_rspndr            True
+Ethernet 5 Общий доступ к файлам и принтерам для сетей Microsoft               ms_server            True
+Ethernet 5 IP версии 4 (TCP/IPv4)                                              ms_tcpip             True
+Ethernet 5 IP версии 6 (TCP/IPv6)                                              ms_tcpip6            True
+Ethernet 5 Упрощенный фильтр основного MAC-уровня платформы фильтрации Windows ms_wfplwf_lower      True
+Ethernet 5 Упрощенный фильтр MAC-уровня 802.3 платформы фильтрации Windows     ms_wfplwf_upper      True
+Ethernet 5 ExitLag LightWeight Filter                                          nt_ndextlag          True
+Ethernet 5 VirtualBox NDIS6 Bridged Networking Driver                          oracle_VBoxNetLwf    True
+Ethernet 5 Расширяемый виртуальный коммутатор Hyper-V                          vms_pp              False
+
+
+
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 2 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 2 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 2 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 2 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 2 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 2 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 2 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 2 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 2 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 2 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 2 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 2 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 2 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 2 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 2 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 2 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 5 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 5 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 5 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 5 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 5 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 5 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 5 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 5 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 5 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 5 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 5 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 5 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 5 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 5 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 5 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 5 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 3 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 3 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 3 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 3 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 3 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 3 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 3 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 3 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 3 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 3 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 3 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 3 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 3 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 3 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 3 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 3 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 5 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 5 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 5 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 5 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 5 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 5 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 5 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 5 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 5 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 5 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 5 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 5 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 5 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 5 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 5 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 5 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name                            DisplayName                                                   ComponentID    Enabled
+----                            -----------                                                   -----------    -------
+Подключение по локальной сети 2 Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+Подключение по локальной сети 2 Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+Подключение по локальной сети 2 Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+Подключение по локальной сети 2 Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+Подключение по локальной сети 2 Клиент для сетей Microsoft                                    ms_msclient       True
+Подключение по локальной сети 2 NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+Подключение по локальной сети 2 NetBIOS Interface                                             ms_netbios        True
+Подключение по локальной сети 2 WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+Подключение по локальной сети 2 Протокол PPPoE                                                ms_pppoe          True
+Подключение по локальной сети 2 Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+Подключение по локальной сети 2 Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+Подключение по локальной сети 2 Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+Подключение по локальной сети 2 IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+Подключение по локальной сети 2 IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+Подключение по локальной сети 2 ExitLag LightWeight Filter                                    nt_ndextlag       True
+Подключение по локальной сети 2 Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+
+Name       DisplayName                                                         ComponentID       Enabled
+----       -----------                                                         -----------       -------
+Ethernet 6 Npcap Packet Driver (NPCAP)                                         INSECURE_NPCAP       True
+Ethernet 6 Протокол мультиплексора сетевого адаптера (Майкрософт)              ms_implat           False
+Ethernet 6 Вложенная виртуализация сети                                        ms_l1vhlwf           True
+Ethernet 6 Драйвер моста                                                       ms_l2bridge          True
+Ethernet 6 Драйвер протокола LLDP (Майкрософт)                                 ms_lldp              True
+Ethernet 6 Ответчик обнаружения топологии канального уровня                    ms_lltdio            True
+Ethernet 6 Клиент для сетей Microsoft                                          ms_msclient          True
+Ethernet 6 Захват Microsoft NDIS                                               ms_ndiscap           True
+Ethernet 6 NDIS-протокол ввода-вывода пользовательского режима                 ms_ndisuio           True
+Ethernet 6 NetBIOS Interface                                                   ms_netbios           True
+Ethernet 6 WINS Client(TCP/IP) Protocol                                        ms_netbt             True
+Ethernet 6 Планировщик пакетов QoS                                             ms_pacer             True
+Ethernet 6 Протокол PPPoE                                                      ms_pppoe             True
+Ethernet 6 Microsoft RDMA — NDK                                                ms_rdma_ndk          True
+Ethernet 6 Отвечающее устройство обнаружения топологии канального уровня       ms_rspndr            True
+Ethernet 6 Общий доступ к файлам и принтерам для сетей Microsoft               ms_server            True
+Ethernet 6 IP версии 4 (TCP/IPv4)                                              ms_tcpip             True
+Ethernet 6 IP версии 6 (TCP/IPv6)                                              ms_tcpip6            True
+Ethernet 6 Упрощенный фильтр основного MAC-уровня платформы фильтрации Windows ms_wfplwf_lower      True
+Ethernet 6 Упрощенный фильтр MAC-уровня 802.3 платформы фильтрации Windows     ms_wfplwf_upper      True
+Ethernet 6 ExitLag LightWeight Filter                                          nt_ndextlag          True
+Ethernet 6 VirtualBox NDIS6 Bridged Networking Driver                          oracle_VBoxNetLwf    True
+Ethernet 6 Расширяемый виртуальный коммутатор Hyper-V                          vms_pp              False
+
+
+
+Name       DisplayName                                                   ComponentID    Enabled
+----       -----------                                                   -----------    -------
+AmneziaVPN Npcap Packet Driver (NPCAP)                                   INSECURE_NPCAP    True
+AmneziaVPN Протокол мультиплексора сетевого адаптера (Майкрософт)        ms_implat        False
+AmneziaVPN Драйвер протокола LLDP (Майкрософт)                           ms_lldp           True
+AmneziaVPN Ответчик обнаружения топологии канального уровня              ms_lltdio         True
+AmneziaVPN Клиент для сетей Microsoft                                    ms_msclient       True
+AmneziaVPN NDIS-протокол ввода-вывода пользовательского режима           ms_ndisuio        True
+AmneziaVPN NetBIOS Interface                                             ms_netbios        True
+AmneziaVPN WINS Client(TCP/IP) Protocol                                  ms_netbt          True
+AmneziaVPN Протокол PPPoE                                                ms_pppoe          True
+AmneziaVPN Microsoft RDMA — NDK                                          ms_rdma_ndk       True
+AmneziaVPN Отвечающее устройство обнаружения топологии канального уровня ms_rspndr         True
+AmneziaVPN Общий доступ к файлам и принтерам для сетей Microsoft         ms_server         True
+AmneziaVPN IP версии 4 (TCP/IPv4)                                        ms_tcpip          True
+AmneziaVPN IP версии 6 (TCP/IPv6)                                        ms_tcpip6         True
+AmneziaVPN ExitLag LightWeight Filter                                    nt_ndextlag       True
+AmneziaVPN Расширяемый виртуальный коммутатор Hyper-V                    vms_pp           False
+
+
+

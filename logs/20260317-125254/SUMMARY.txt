@@ -1,0 +1,48 @@
+﻿TunDoctor Summary
+Generated: 17.03.2026 12:53:29
+Log folder: C:\Users\empty\Desktop\all\ttf\fix\logs\20260317-125254
+
+Findings:
+- [WARN] Stopped service NlaSvc: This service should be running for healthy networking and VPN operation.
+- [WARN] Tunnel adapter not up: Подключение по локальной сети 3: Status is Disconnected.
+- [WARN] Tunnel adapter not up: Подключение по локальной сети 5: Status is Disconnected.
+- [WARN] Tunnel adapter not up: Подключение по локальной сети 2: Status is Disconnected.
+- [WARN] Tunnel adapter not up: Teredo Tunneling Pseudo-Interface: Status is Not Present.
+- [WARN] Tunnel adapter not up: Подключение по локальной сети 4: Status is Disconnected.
+- [WARN] Tunnel adapter not up: outline-tap0: Status is Disconnected.
+- [INFO] Third-party filter binding on Ethernet 6: Enabled filter: oracle_VBoxNetLwf (VirtualBox NDIS6 Bridged Networking Driver)
+- [INFO] Third-party filter binding on Ethernet 6: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Ethernet 6: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети* 2: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети* 2: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети* 5: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети* 5: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети 3: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети 3: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети 5: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети 5: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети 2: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети 2: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Ethernet 5: Enabled filter: oracle_VBoxNetLwf (VirtualBox NDIS6 Bridged Networking Driver)
+- [INFO] Third-party filter binding on Ethernet 5: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Ethernet 5: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети* 4: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети* 4: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети 4: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети 4: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on outline-tap0: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on outline-tap0: Enabled filter: oracle_VBoxNetLwf (VirtualBox NDIS6 Bridged Networking Driver)
+- [INFO] Third-party filter binding on outline-tap0: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on Подключение по локальной сети* 3: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [INFO] Third-party filter binding on Подключение по локальной сети* 3: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on AmneziaVPN: Enabled filter: nt_ndextlag (ExitLag LightWeight Filter)
+- [INFO] Third-party filter binding on AmneziaVPN: Enabled filter: INSECURE_NPCAP (Npcap Packet Driver (NPCAP))
+- [WARN] Live test failed: DNS resolution: The property 'IPAddress' cannot be found on this object. Verify that the property exists.
+- [WARN] Live test failed: Tunnel adapter inspection: Не найдены объекты MSFT_NetIPInterface со свойством "InterfaceIndex", равным "16". Проверьте значение свойства и попробуйте еще раз.
+
+Actions executed in this session:
+- Collecting full diagnostic snapshot.
+- Collecting raw networking diagnostics.
+- Running live connectivity and VPN readiness tests.
+
+Reboot required: False
